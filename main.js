@@ -28,7 +28,7 @@ document.querySelectorAll('.nav-link').forEach(link => {
   });
 });
 
-// --- Contact Form Simulation ---
+// Contact Form Simulation
 const form = document.getElementById('contactForm');
 const formStatus = document.querySelector('.form-status');
 const submitButton = form.querySelector('.btn-submit');
